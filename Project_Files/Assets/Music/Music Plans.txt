@@ -1,0 +1,21 @@
+-----MUSIC-----
+Rounds 1 - 3
+- 8Bit Music -> "Track 6"
+
+Main Menu
+- 8Bit Music -> "Track 8"
+
+Rounds 4 - 6
+- 8Bit Fantasy -> "Prepare for Battle!" 
+
+Rounds 7 - 9
+- 8Bit Fantasy -> "Decisive Battle" 
+
+Lose
+- 8Bit Fantasy -> "Exploring the Unknown"
+
+Victory
+- 8bit Fantasy -> "Take some rest and eat some food!" 
+
+Round 10
+- Symbiotic Devolution 
